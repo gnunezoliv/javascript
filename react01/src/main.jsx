@@ -5,6 +5,5 @@ import './index.css'
 
 /**1.- JSX debe tener UN SOLO elemento raiz */
 createRoot(document.getElementById('root')).render (
-<App/>
-
+<App/>   
 );
